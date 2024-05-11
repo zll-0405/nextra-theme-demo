@@ -1,0 +1,26 @@
+{
+    "index": {
+      "type": "page",
+      "title": "首页",
+      "display": "hidden",
+      "theme": {
+        "layout": "raw"
+      }
+    },
+    "guide": {
+      "type": "page",
+      "title": "指南"
+    },
+   "test": {
+    "type": "page",
+    "title": "测试"
+   }, 
+    "about": {
+      "type": "page",
+      "title": "关于",
+      "theme": {
+        "typesetting": "article"
+      }
+    }
+  }
+  

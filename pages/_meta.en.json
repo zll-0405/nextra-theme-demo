@@ -11,10 +11,10 @@
     "type": "page",
     "title": "Guide"
   },
- "test": {
-  "type": "page",
-  "title": "Test"
- }, 
+  "test": {
+    "type": "page",
+    "title": "Test"
+  }, 
   "about": {
     "type": "page",
     "title": "About",

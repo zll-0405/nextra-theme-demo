@@ -64,6 +64,10 @@ const config: DocsThemeConfig = {
     defaultMenuCollapseLevel: 1,
     toggleButton: true,
   },
+  i18n: [
+    { locale: "en", text: "English" },
+    { locale: "zh", text: "中文" },
+  ],
   footer: {
     text: (
       <div className="mx-auto w-full max-w-7xl px-5 py-16 md:px-10 md:py-24"> 
