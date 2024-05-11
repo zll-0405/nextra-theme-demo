@@ -4,7 +4,7 @@
 
 这是一个基于 nextra 开发的小 demo ，尽可能的做到了开箱即用，如果你需要的话，可以用它来搭建你的网站
 
-可以在这里看效果: []()
+可以在这里看效果: [https://nextra-theme-demo.vercel.app/](https://nextra-theme-demo.vercel.app/)
 
 next 版本： 14.2.1 <br/>
 nextra 版本： 2.13.4 <br/>
@@ -34,6 +34,6 @@ nextra-theme-docs 版本： 2.13.4 <br/>
 
 ## 多语言版本
 
-main 分支默认为多语言版本，如果想要非多语言版本，可移步分支 [without-i18n]()
+main 分支默认为多语言版本，如果想要非多语言版本，可移步分支 [without-i18n](https://github.com/zll-0405/nextra-theme-demo/tree/without-i18n)
 
 如果它对你有用，可以请我喝杯咖啡 👉 [buy me a coffee](https://ko-fi.com/lulubiu)

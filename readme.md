@@ -4,7 +4,7 @@
 
 This is a demo developed based on nextra. It is as out-of-the-box as possible. If you need it, you can use it to build your website.
 
-You can see this demo through []()
+You can see this demo through [https://nextra-theme-demo.vercel.app/](https://nextra-theme-demo.vercel.app/)
 
 next version: 14.2.1 <br/>
 nextra version: 2.13.4 <br/>
@@ -34,6 +34,6 @@ Just replace `logo.png` in the `/public` directory
 
 ## Multi-language
 
-The main branch defaults to a multi-language version. If you want a non-multi-language version, you can move to the branch: [without-i18n]()
+The main branch defaults to a multi-language version. If you want a non-multi-language version, you can move to the branch: [without-i18n](https://github.com/zll-0405/nextra-theme-demo/tree/without-i18n)
 
 If it's helpful for you, you can 👉 [buy me a coffee](https://ko-fi.com/lulubiu)
